@@ -91,7 +91,7 @@ middle =( list1[1:i-1])
 last = (list1[i-1])
 ```
 
-In this portion of the program each variable (First, Middle, and Last) is
+In this portion of the program each variable (first, middle, and last) is
 set to the specific protions of the list they will peint later on.
 
 Using the value `i` from `i = len(list)` the program is able to tell which
